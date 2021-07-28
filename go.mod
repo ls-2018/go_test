@@ -1,0 +1,1 @@
+module "github.com/ls-2018/go_test"
